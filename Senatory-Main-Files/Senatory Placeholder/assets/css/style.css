@@ -10533,8 +10533,8 @@ input[type=checkbox] {
   content: "";
   position: absolute;
   width: 95%;
-  height: 30px;
-  background: rgba(221, 19, 26, 0.16);
+  height: 5px;
+  background: rgb(221 19 26 / 5%);
   bottom: -10px;
   left: 50%;
   -webkit-transform: translateX(-50%);
