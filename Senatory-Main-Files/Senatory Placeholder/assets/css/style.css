@@ -8,7 +8,7 @@
 # Normalize
 --------------------------------------------------------------*/
 :root {
-  --main-color-one:#DD131A;
+  --main-color-one:purple;
   --main-color-two: #000565;
   --secondary-color: #0E115A;
   --heading-color: #04072E;
@@ -8984,7 +8984,7 @@ input[type=checkbox] {
   width: 80%;
   height: 60px;
   z-index: -1;
-  background-color:red;
+  background-color:purple;
   border-radius: 0px 0px 0px 0px;
 }
 .header-top .row {
